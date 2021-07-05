@@ -1,2 +1,0 @@
-some-text
-This is a new text.
